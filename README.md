@@ -1,1 +1,6 @@
-# Tashdata.github.io
+# Data Analyst
+### Education
+VERTICAL INSTITUTE
+
+
+###Work Experience
