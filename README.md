@@ -1,6 +1,12 @@
 # Data Analyst
 ### Education
-VERTICAL INSTITUTE
+Vertical Institute
 
 
-###Work Experience
+### Work Experience
+
+### Project
+
+
+
+
